@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.skobaro</groupId>
-    <artifactId>basic-socket-http-server</artifactId>
+    <artifactId>basicsockethttpserver</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
